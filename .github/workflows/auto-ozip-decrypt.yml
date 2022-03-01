@@ -16,7 +16,7 @@ on:
 env:
   FIRMWARE_LINK: https://assorted.downloads.oppo.com/firmware/CPH2001/CPH2001PUEX_11_OTA_1530_all_8kCIr2aTykOt.ozip #edit link here...
   FIRMWARE_NAME: CPH2001PUEX_11_OTA_1530_all_8kCIr2aTykOt.ozip  #edit file name here, you can find the name of file from link itself...
-  FINAL_ZIP_NAME: CPH2001PUEX_11.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
+  FINAL_ZIP_NAME: oppoa91.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
   TZ: Asia/Kolkata
 
 jobs:
